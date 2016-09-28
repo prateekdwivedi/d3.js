@@ -1,0 +1,5 @@
+1. indexVis.html shows the motion visualization created in D3.js using JSON data collected from a University.
+
+Link : http://cs.okstate.edu/~prated/indexVis.html
+
+2. Animation will be controlled by "Start Animate" and "Stop Animate" buttons.
